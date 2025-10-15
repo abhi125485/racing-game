@@ -1,0 +1,8 @@
+racing-game/
+ ┣ index.html
+ ┣ /assets/
+ ┃   ┣ /models/
+ ┃   ┃   ┗ car.glb
+ ┃   ┗ /textures/ (optional for track/ground)
+ ┣ /js/
+ ┃   ┗ main.js
